@@ -1,12 +1,12 @@
 # Hospitality Revenue Analytics - Enterprise Power BI Dashboard
 
-👉 [Live Interactive Dashboard](#)
+👉 [Live Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjE2MTg1MjItZDBiMy00MDI2LTg3ZWMtOTQ5MTM5OTlkZDBmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-📊 [Download Static Dashboard Presentation](#)
+📊 [Download Visual Showcase & Presentation](docs/Hospitality_Visual_Showcase.pdf)
 
-💼 [My Portfolio](#)
+💼 [My Portfolio](https://codebasics.io/portfolio/Harshkumar-Gupta)
 
-🔗 [LinkedIn Profile](#)
+🔗 [LinkedIn Post](https://lnkd.in/p/gacJ5zkr)
 
 ---
 
